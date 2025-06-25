@@ -1,4 +1,3 @@
-
 -- View all data
 SELECT * FROM cea_transactions;
 
